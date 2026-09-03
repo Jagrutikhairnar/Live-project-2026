@@ -67,10 +67,40 @@ The Power BI dashboard provides an interactive view of cyber incidents using KPI
 
 ### Dashboard Preview
 <img width="626" height="352" alt="image" src="https://github.com/user-attachments/assets/e9da83bc-63e6-408d-9091-86e9f6add98e" />
+
+
+
+
+
+
 <img width="672" height="374" alt="image" src="https://github.com/user-attachments/assets/cdc4c129-e986-45c5-896b-09627ead57c3" />
+
+
+
+
+
+
 <img width="667" height="368" alt="image" src="https://github.com/user-attachments/assets/cb2b7046-a387-483e-a9dc-38f476bd297e" />
+
+
+
+
+
+
 <img width="668" height="374" alt="image" src="https://github.com/user-attachments/assets/86cb47f3-2c32-4dc1-ba89-d82f5bfe538f" />
+
+
+
+
+
+
 <img width="671" height="371" alt="image" src="https://github.com/user-attachments/assets/9e1734a1-1977-4e84-bc6e-44730d3a0661" />
+
+
+
+
+
+
 <img width="664" height="371" alt="image" src="https://github.com/user-attachments/assets/04c17e62-7e70-4989-92d3-740812cdf442" />
 
 
